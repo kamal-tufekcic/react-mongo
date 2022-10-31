@@ -1,1 +1,1 @@
-Simple chat app made using React, NodeJS, and MongoDB.
+Simple chat app made using React, NodeJS/Yarn, and MongoDB.
